@@ -1,18 +1,5 @@
 /*
-  Vantagens e desvantagens do S.O.L.I.D.
+  Jest é uma popular biblioteca de testes. Ele é usado para escrever testes unitários e testes de integração.
 
-  Vantagens:
-  - Código modular
-  - Código reutilizável (D.R.Y - Don't repeat yourself)
-  - Código testável, baixo acoplamento
-  - Baixo acoplamento e alta coesão
-  - Código expansível
-  - Separations of concerns (Separação de conceitos)
-  - Fácil manutenção
-  Desvantagens:
-  - Complexidade
-  - Quantidade de código digitado aumenta
-  - Tempo de desenvolvimento aumenta
-  - Tenha cuidado com: YAGNi, KISS (You aren't gonna need it | Keep it simple, stupid!)
-
+  Por convenção arquivos 'spec' são testes unitários e arquivos 'test' serão teste de integração, podendo variar dependendo da equipe.
 */
